@@ -1,4 +1,4 @@
-import { h, render, Component } from 'preact';
+import { h } from 'preact';
 
 const Button = ({ func, text }) =>
   <button onclick={ func }>{ text }</button>;

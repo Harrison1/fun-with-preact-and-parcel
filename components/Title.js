@@ -1,4 +1,4 @@
-import { h, render, Component } from 'preact';
+import { h } from 'preact';
 
 const Title = ({ title }) =>
   <h1>{ title }</h1>
