@@ -4,7 +4,7 @@ import Alert from '../container/Alert'
 
 const App = () =>
   <div id="root">
-    <Title title="Hello Galaxy" />
+    <Title title="Hello Universe" />
     <Alert />
   </div>
 
