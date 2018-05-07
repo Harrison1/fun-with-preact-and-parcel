@@ -1,10 +1,10 @@
 import { h } from 'preact';
-import Title from '../components/Title'
+import Title from './Title'
 import Alert from '../container/Alert'
 
 const App = () =>
   <div id="root">
-    <Title title="Hello Universe" />
+    <Title title="Hello Galaxy" />
     <Alert />
   </div>
 

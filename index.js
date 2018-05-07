@@ -1,6 +1,6 @@
 import {Provider, connect} from 'preact-redux';
 import { h, render } from 'preact'
-import App from './container/App'
+import App from './components/App'
 
 const Main = () => (
   <Provider>
